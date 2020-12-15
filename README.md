@@ -4,7 +4,9 @@ Exercício de código para TreeTech
 Código criado no ambiente Ubuntu 20.04. Talvez seja necessário atualizar as bibliotecas de desenvolvimento para a correta compilação deste projeto. Para isso, use os comandos abaixo:
 
 >sudo apt-get update
+
 >sudo apt-get upgrade
+
 >sudo apt-get install build-essential
 
 Com isso o projeto deve compilar corretamente.
